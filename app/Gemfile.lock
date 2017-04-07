@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     ffi (1.9.18)
-    pycall (0.1.0.alpha.20170329)
+    pycall (0.1.0.alpha.20170403)
       ffi
     rack (1.6.5)
     rack-protection (1.5.3)
